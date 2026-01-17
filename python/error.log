@@ -1,0 +1,6 @@
+ERROR:root:Division by zero error occurred.
+ERROR:root:Division by zero error occurred.
+ERROR:root:This is an error message.
+CRITICAL:root:This is a critical message.
+ERROR:root:This is an error message.
+CRITICAL:root:This is a critical message.

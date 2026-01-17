@@ -1,0 +1,1 @@
+2026-01-17 13:48:54,384 - ERROR - Error occurred while handling file: [Errno 2] No such file or directory: 'non_existent_file.txt'
